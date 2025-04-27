@@ -1,0 +1,252 @@
+@charset "UTF-8";
+.hero-section {
+  padding: 50px 0 !important;
+}
+
+.small-title {
+  color: #0d6efd !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  font-size: 14px !important;
+  margin-bottom: 15px !important;
+}
+
+.hero-title {
+  font-size: 48px !important;
+  font-weight: 700 !important;
+  line-height: 1.2 !important;
+  margin-bottom: 20px !important;
+}
+
+.highlighted-text {
+  color: #0d6efd !important;
+}
+
+.hero-description {
+  color: #6c757d !important;
+  font-size: 16px !important;
+  margin-bottom: 30px !important;
+  max-width: 500px !important;
+}
+
+.btn {
+  border-radius: 30px !important;
+  padding: 12px 30px !important;
+  font-size: 16px !important;
+}
+
+.btc {
+  width: 35px !important;
+  height: 35px !important;
+  -o-object-fit: contain;
+     object-fit: contain;
+  display: inline-block;
+}
+
+.ethtab {
+  width: 35px !important;
+  height: 35px !important;
+  -o-object-fit: contain !important;
+     object-fit: contain !important;
+  display: inline-block !important;
+}
+
+.soldeger {
+  width: 35px !important;
+  height: 35px !important;
+  -o-object-fit: contain !important;
+     object-fit: contain !important;
+  display: inline-block !important;
+}
+
+.dogdeger {
+  width: 100px !important;
+  height: 100px !important;
+  -o-object-fit: contain !important;
+     object-fit: contain !important;
+  display: inline-block !important;
+}
+
+.dogicon {
+  width: 35x !important;
+  height: 35px !important;
+}
+
+.papicon {
+  width: 40px;
+  height: 40px;
+}
+
+.btcAicon {
+  width: 40px;
+  height: 40px;
+}
+
+.moonicon {
+  width: 40px;
+  height: 40px;
+}
+
+.ninjaicon {
+  width: 40px;
+  height: 40px;
+}
+
+.metaicon {
+  width: 40px;
+  height: 40px;
+}
+
+.frogicon {
+  width: 40px;
+  height: 40px;
+}
+
+.musk-doge {
+  width: 40px;
+  height: 40px;
+}
+
+.shareicon {
+  width: 40px;
+  height: 40px;
+}
+
+.form-box {
+  border-radius: 12px;
+  padding: 12px 20px;
+  border: 1px solid #dee2e6;
+  font-size: 16px;
+}
+
+.buy-section h2 {
+  font-size: 28px;
+}
+
+.btn-primary {
+  background: linear-gradient(to right, #4d73ff, #1e40ff);
+  border: none;
+}
+
+.partners-section {
+  background: #f8f9fa;
+}
+
+.partner-logo {
+  max-height: 40px;
+  opacity: 0.8;
+  transition: all 0.36 ease;
+}
+
+.credit-cart-section {
+  background: #fff;
+}
+
+.check-icon {
+  color: #0d6efd;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+.btn-outline-primary {
+  border-width: 2px;
+  font-weight: 500;
+}
+
+.kazmakurek-section {
+  background: #fcfcfc;
+}
+
+h3 {
+  font-size: 28px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+.btn-outline-primary {
+  font-weight: 500;
+  border-width: 2px;
+}
+
+.btn-link {
+  color: #0d6efd;
+  font-weight: 500;
+}
+
+img {
+  max-width: 350px;
+}
+
+.kasa-section {
+  background: #fdfdfd;
+}
+.kasa-section h3 {
+  font-size: 26px;
+}
+.kasa-section .text-primary {
+  font-size: 18px;
+}
+.kasa-section a {
+  color: #0d6efd;
+  font-weight: 500;
+}
+
+.btcimg {
+  width: 216;
+  height: 210;
+}
+
+.çanta {
+  width: 245;
+  height: 210;
+}
+
+.hand {
+  width: 220;
+  height: 212;
+}
+
+.arrow {
+  width: 197px;
+}
+
+.arrowtwo {
+  width: 197px;
+}
+
+.footer-link {
+  display: block;
+  color: #444;
+  margin-bottom: 0.5rem;
+  font-size: 14px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.footer-link:hover {
+  color: #0d6efd;
+  text-decoration: underline;
+}
+
+.footer-section {
+  border-top: 1px solid #eee;
+  background-color: #fff;
+}
+
+.coin-icon {
+  width: 30px !important;
+  height: 30px !important;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.chart-img {
+  max-height: 40px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}/*# sourceMappingURL=proje.css.map */
